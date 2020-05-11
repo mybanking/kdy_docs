@@ -1,6 +1,6 @@
-![logo](_media/kdy.jpg)
+![kdy](_media/kdy.jpg)
 
-# docsify <small>3.5</small>
+# 孔德焱 <small> 1.0</small>
 
 > A magical documentation site generator.
 
