@@ -1,12 +1,7 @@
-![kdy](_media/kdy.jpg)
+![logo](_media/kdy.jpg)
 
-# 孔德焱 <small> 1.0</small>
+# Myblogs <small> 1.0</small>
 
-> A magical documentation site generator.
+> You need believe that something extraordinary is possible
 
-- Simple and lightweight (~21kB gzipped)
-- No statically built html files
-- Multiple themes
-
-[GitHub](https://github.com/mybanking/kdy_docs)
-[Get Started](#Headline)
+[Get Started](README.md)
